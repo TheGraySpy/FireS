@@ -1,0 +1,25 @@
+body{
+    background: rgb(49, 49, 49);
+}
+
+.title{
+    text-align: center;
+    color:rgb(206, 141, 19);
+}
+
+.image{
+    margin-left:15%;
+   
+    width:80%;
+    border:1px solid black;
+    background: rgb(72, 72, 72);
+  
+}
+h3{
+    color:white;
+    text-align: center;
+}
+.Reasons{
+    background: rgb(39, 39, 39);
+    color:white;
+}
